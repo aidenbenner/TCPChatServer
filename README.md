@@ -1,5 +1,5 @@
 # ChatServer
-A centralized network chat application that allows text communication acrosslan or the internet. Created as a grade 11 CS project. 
+A centralized network chat application that allows text communication across lan or the internet. Created as a grade 11 CS project. 
 
 
 # Server 
@@ -16,22 +16,28 @@ Once connected, your username will default to your computer's hostname. To chang
 # Demo
 
 Server Perspective
+
 ![Server Perspective](http://i.imgur.com/ZxJbRvc.png)
 
 
 Server Perspective: showing multiple users connected
+
 ![Server Perspective](http://i.imgur.com/eCjab4o.png)
 
 
 Initial client request for a server IP
+
 ![IP Request](http://i.imgur.com/53TbBc1.png)
 
 
+
 /USER command
+
 ![Client perspective](http://i.imgur.com/3KqtNaE.png)
 
 
 Great way to send goose ascii art!
+
 ![Goos ascii art](http://i.imgur.com/LOGk850.png)
 
 
