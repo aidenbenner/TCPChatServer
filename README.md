@@ -15,23 +15,23 @@ Once connected, your username will default to your computer's hostname. To chang
 
 # Demo
 
+Server Perspective
 ![Server Perspective](http://i.imgur.com/ZxJbRvc.png)
 
-Server Perspective
-
-![Server Perspective](http://i.imgur.com/eCjab4o.png)
 
 Server Perspective: showing multiple users connected
+![Server Perspective](http://i.imgur.com/eCjab4o.png)
 
-![IP Request](http://imgur.com/53TbBc1)
 
 Initial client request for a server IP
+![IP Request](http://i.imgur.com/53TbBc1.png)
 
-![Client perspective](http://i.imgur.com/3KqtNaE.png)
 
 /USER command
+![Client perspective](http://i.imgur.com/3KqtNaE.png)
 
-![Goos ascii art](http://i.imgur.com/LOGk850.png)
 
 Great way to send goose ascii art!
+![Goos ascii art](http://i.imgur.com/LOGk850.png)
+
 
